@@ -2,9 +2,9 @@
 
 This repository contains the implementation of a chatbot designed to operate during the gameplay of "Don't Starve". The chatbot leverages advanced language models, specifically DialogPT and KoGPT. Notably, these models have been optimized for performance by converting them to the ONNX format. The chatbot is designed to seamlessly interact in both **Korean** and **English**, providing a fluent and natural conversational experience in both languages.
 
-## Gameplay Interaction: Don't Starve
+## Gameplay Interaction: Don't Starve together
 
-During the gameplay of "Don't Starve", human participants engage in conversations with our developed virtual agent. This setup provides valuable insights into human-agent interaction in a dynamic environment. The chatbot's responses and interactions are not just limited to the gameplay mechanics but also encompass a broader range of conversational contexts, making the gaming experience more immersive and interactive.
+During the gameplay of "Don't Starve together", human participants engage in conversations with our developed virtual agent. This setup provides valuable insights into human-agent interaction in a dynamic environment. The agent's responses and interactions are not just limited to the gameplay mechanics but also encompass a broader range of conversational contexts, making the gaming experience more immersive and interactive.
 
 ## Overview
 
