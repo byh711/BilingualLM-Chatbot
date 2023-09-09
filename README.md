@@ -31,7 +31,9 @@ During the gameplay of "Don't Starve together", human participants engage in con
 ## Setup and Usage
 
 1. Clone the repository: git clone https://github.com/byh711/BiLingualLM-Chatbot.git
-   
+   ```sh
+   git clone https://github.com/byh711/BiLingualLM-Chatbot.git
+   ```
 2. Install the required packages: pip install -r requirements.txt
    
 3. Ensure you have set up the necessary API keys and configurations in the `config.py` file.
