@@ -8,11 +8,13 @@ During the gameplay of "Don't Starve together", human participants engage in con
 
 ## Key Features
 
+- **Integration with the game "Don't Starve Together"**
+
 - **Advanced Language Models**: The chatbot utilizes DialoGPT and KoGPT2, which are state-of-the-art language models known for their capabilities in generating human-like text based on the input provided.
 
 - **ONNX Optimization**: To enhance the performance and reduce the latency of the language models, they have been converted to the ONNX format. This optimization ensures faster response times, making the chatbot more efficient.
 
-- **Integration with Microsoft Azure**: The chatbot integrates with Microsoft Azure's cognitive services for both speech recognition and text-to-speech synthesis, providing a seamless conversational experience.
+- **Advanced speech capabilities for in-game characters**: The chatbot integrates with Microsoft Azure's cognitive services for both speech recognition and text-to-speech synthesis, providing a seamless conversational experience.
 
 - **Bilingual Support**: Our chatbot is designed to seamlessly interact in both **Korean** and **English**. Whether you're a native Korean speaker or an English speaker, our chatbot is equipped to understand and respond to you effectively.
 
