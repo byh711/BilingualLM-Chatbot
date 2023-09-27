@@ -16,6 +16,8 @@ During the gameplay of "Don't Starve together", human participants engage in con
 
 - **Advanced speech capabilities for in-game characters**: The chatbot integrates with Microsoft Azure's cognitive services for both speech recognition and text-to-speech synthesis, providing a seamless conversational experience.
 
+- **Semantic Similarity**: The chatbot employs the **SentenceTransformer('sentence-transformers/multi-qa-mpnet-base-cos-v1')** model to compute the semantic similarity between a user's query and the generated response. This ensures contextually relevant and coherent responses.
+
 - **Bilingual Support**: Our chatbot is designed to seamlessly interact in both **Korean** and **English**. Whether you're a native Korean speaker or an English speaker, our chatbot is equipped to understand and respond to you effectively.
 
 ## **Setting** Directory
