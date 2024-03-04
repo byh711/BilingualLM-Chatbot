@@ -1,4 +1,4 @@
-# BiLingualLM-Chatbot
+# BilingualLM-Chatbot
 
 This repository contains the implementation of a chatbot designed to operate during the gameplay of "Don't Starve together". The chatbot leverages advanced language models, specifically DialoGPT and KoGPT2. Notably, these models have been optimized for performance by converting them to the ONNX format. The chatbot is designed to seamlessly interact in both **Korean** and **English**, providing a fluent and natural conversational experience in both languages.
 
