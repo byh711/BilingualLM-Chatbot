@@ -46,7 +46,7 @@ The `setting` directory is a crucial component of the BiLingualLM-Chatbot. It co
 **Usage:**
 1. Clone the repository
    ```sh
-   git clone https://github.com/byh711/BiLingualLM-Chatbot.git
+   git clone https://github.com/byh711/BilingualLM-Chatbot.git
    ```
 2. Install the required packages
    ```sh
